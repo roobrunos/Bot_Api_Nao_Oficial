@@ -1,0 +1,5 @@
+Olá *{{nome}}*, 
+Responsável pela empresa *{{razao_social}}*, CNPJ *{{cnpj}}*. 
+Parabéns pela abertura da sua empresa 🙌. 
+
+Sabemos que agora se inicia grande desafios e estamos aqui para te ajudar!
