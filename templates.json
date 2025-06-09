@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Prospect UTIL",
+    "mensagem": "Olá {{nome}}, responsável pela empresa {{razao_social}}, CNPJ {{cnpj}}. Parabéns pela abertura da sua empresa!"
+  },
+  {
+    "nome": "Oferta de crédito MKT",
+    "mensagem": "Oi {{nome}}, temos condições especiais para empresas como a {{razao_social}} (CNPJ: {{cnpj}}). Aproveite!"
+  },
+  {
+    "nome": "Reativação de contato MKT",
+    "mensagem": "Olá {{nome}}, sentimos sua falta! A {{razao_social}} (CNPJ: {{cnpj}}) ainda está buscando soluções financeiras?"
+  }
+
+
+]
