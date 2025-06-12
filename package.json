@@ -16,6 +16,7 @@
     "express": "^5.1.0",
     "googleapis": "^149.0.0",
     "inquirer": "^8.2.6",
+    "node-cron": "^4.1.0",
     "qrcode-terminal": "^0.12.0"
   }
 }
